@@ -1,5 +1,15 @@
 # AIR-BNB
 
+## Author :
+   Ritik Raj
+   <br>
+   Email: rajsinghritik@gmail.com
+   <br>
+   LinkedIn : linkedin.com/in/ritikraj8
+## Website Link :
+   url : https://github.com/rajsinghritik/Amazon-Clone/
+
+
 #output
 
 ![351074828-49cff226-f372-4668-8095-8f741265edc3](https://github.com/user-attachments/assets/2bf7c812-b29a-40b5-bda4-2b14b988b3a2)
