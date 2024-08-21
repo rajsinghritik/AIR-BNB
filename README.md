@@ -1,9 +1,9 @@
-# AIR-BNB
+# Chatting App-WhatsApp Clone
 <p align="center">
   
   <br>
   <a style="" href="https://github.com/rajsinghritik">
-  <img src="https://profile-counter.glitch.me/airbnb-project/count.svg" />
+  <img src="https://profile-counter.glitch.me/clone/count.svg" />
   </a>
 </p>
 
