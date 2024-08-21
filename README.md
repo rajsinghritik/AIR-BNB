@@ -1,4 +1,11 @@
 # AIR-BNB
+<p align="center">
+  
+  <br>
+  <a style="" href="https://github.com/rajsinghritik">
+  <img src="https://profile-counter.glitch.me/airbnb-project/count.svg" />
+  </a>
+</p>
 
 ## Author :
    Ritik Raj
